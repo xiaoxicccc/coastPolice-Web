@@ -1,0 +1,51 @@
+{
+  "name": "english",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@open-wc/webpack-import-meta-loader": "^0.4.7",
+    "cesium": "^1.90.0",
+    "copy-webpack-plugin": "^5.0.0",
+    "core-js": "^3.6.5",
+    "echarts": "^5.3.1",
+    "element-ui": "^2.15.6",
+    "highcharts": "^9.3.2",
+    "js-md5": "^0.7.3",
+    "lqlt-lib": "0.0.10",
+    "maptalks": "^0.49.1",
+    "maptalks.markercluster": "^0.8.5",
+    "maptalks.routeplayer": "^0.1.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2",
+    "vue": "^2.6.11",
+    "vue-draggable-resizable": "^2.3.0",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.6.2",
+    "webpack": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/eslint-config-standard": "^5.1.2",
+    "axios": "^0.18.0",
+    "babel-eslint": "^10.1.0",
+    "babel-plugin-component": "^1.1.1",
+    "eslint": "^6.7.2",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "sass-loader": "^8.0.2",
+    "vue-cli-plugin-axios": "0.0.4",
+    "vue-cli-plugin-element": "^1.0.1",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
